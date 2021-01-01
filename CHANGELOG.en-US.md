@@ -28,7 +28,7 @@ timeline: true
   - 🆕 Modal.method adds an `afterClose` callback that will be triggered after the Modal is completely closed. [#28053](https://github.com/ant-design/ant-design/pull/28053) [@liuchao233](https://github.com/liuchao233)
   - 🐞 Fix the problem that Modal can be dragged outside the viewport. [#28438](https://github.com/ant-design/ant-design/pull/28527) [@mumiao](https://github.com/mumiao)
 - Table
-  - 🐞 Fix the problem that Table childrenColumnName and checkStrictly={false} cannot be used together. [#28568](https://github.com/ant-design/ant-design/pull/28568)
+  - 🐞 Fix the problem that Table `childrenColumnName` and `checkStrictly={false}` cannot be used together. [#28568](https://github.com/ant-design/ant-design/pull/28568)
   - 🐞 Fix Table selection abnormal behavior when inside Checkbox.Group. [#28576](https://github.com/ant-design/ant-design/pull/28576)
   - 🆕 Adds `expandable.columnWidth` to customize the width of the expanded column. [#28249](https://github.com/ant-design/ant-design/pull/28249)
   - 🆕 Adds clear all option from selection. [#28580](https://github.com/ant-design/ant-design/pull/28580) [@n0ruSh](https://github.com/ant-design/ant-design/pull/285)
