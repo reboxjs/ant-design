@@ -35,7 +35,7 @@ timeline: true
 - 🐞 修复 PageHeader 的 `title` 必填的类型问题。[#28374](https://github.com/ant-design/ant-design/pull/28374) [@zhukovvandrei](https://github.com/zhukovvandrei)
 - 🐞 修复 Image 组件的错位问题。[#28439](https://github.com/ant-design/ant-design/pull/28439) [@MoeCasts](https://github.com/MoeCasts)
 - 🐞 修复 Typography 可编辑态光标跳动的问题。[#28545](https://github.com/ant-design/ant-design/pull/28545)
-- 🐞 修复 TreeSelect & Select searchValue 在受控且有值时，下拉菜单无法打开的问题。[#28574](https://github.com/ant-design/ant-design/pull/28574)
+- 🐞 修复 TreeSelect 和 Select `searchValue` 在受控且有值时，下拉菜单无法打开的问题。[#28574](https://github.com/ant-design/ant-design/pull/28574)
 - 🐞 修复 Dropdown 禁用菜单项内的链接样式。[#28578](https://github.com/ant-design/ant-design/pull/28578)
 - 🐞 修复 Progress `steps` 显示精度问题。[#28530](https://github.com/ant-design/ant-design/pull/28530) [@gaoryrt](https://github.com/gaoryrt)
 - 🐞 修复 Radio 在 Chrome 下的对齐样式问题。[#28616](https://github.com/ant-design/ant-design/pull/28616)
