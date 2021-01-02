@@ -22,7 +22,7 @@ timeline: true
 🎉 新年快乐！
 
 - Input
-  - 🆕 Input.TextArea 的 `showCount` 属性现在支持传入一个方法来自定义数字的展示格式了。[#28145](https://github.com/ant-design/ant-design/pull/28145) [@MrHeer](https://github.com/MrHeer)
+  - 🆕 Input.TextArea 支持用 `showCount.formatter` 传入一个方法来自定义数字的展示格式了。[#28145](https://github.com/ant-design/ant-design/pull/28145) [@MrHeer](https://github.com/MrHeer)
   - 🆕 Input `focus` 支持配置获取焦点时的光标位置。[#28602](https://github.com/ant-design/ant-design/pull/28602)
 - Modal
   - 🐞 修复 Modal 可以被拖拽到窗口外的问题。[#28438](https://github.com/ant-design/ant-design/pull/28527) [@mumiao](https://github.com/mumiao)
