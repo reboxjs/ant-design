@@ -42,7 +42,7 @@ timeline: true
 - 💄 Optimize the white border style of Card images. [#28624](https://github.com/ant-design/ant-design/pull/28624)
 - 🆕 Slider add a new `range.draggableTrack` prop. [#28592](https://github.com/ant-design/ant-design/pull/28592)
 - 🆕 Descriptions support setting `labelStyle` & `contentStyle` directly. [#28613](https://github.com/ant-design/ant-design/pull/28613)
-- 🆕 message added a new `onClick` callback that will be triggered when clicked. [#28148](https://github.com/ant-design/ant-design/pull/28148) [@ZeroTo0ne](https://github.com/ant-design/ant-design/pull/28148)
+- 🆕 Message added a new `onClick` callback that will be triggered when clicked. [#28148](https://github.com/ant-design/ant-design/pull/28148) [@ZeroTo0ne](https://github.com/ant-design/ant-design/pull/28148)
 - 🆕 The `scrollToFirstError` property of the Form adds support for setting the position for scrolling. [#28272](https://github.com/ant-design/ant-design/pull/28272) [@vouis](https://github.com/vouis)
 - 🆕 Upload adds a new `maxCount` property to limit the number of files. [#28367](https://github.com/ant-design/ant-design/pull/28367)
 - 🆕 Select `maxTagCount` supports `responsive` in `multiple` mode. [#28520](https://github.com/ant-design/ant-design/pull/28520)
